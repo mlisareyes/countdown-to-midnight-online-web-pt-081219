@@ -2,6 +2,7 @@
 
 
 def countdown(n)
+  n + 1 = s
   while n != 1
     puts "#{n} SECOND(S)!"
     n -= 1
