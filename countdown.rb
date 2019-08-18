@@ -8,9 +8,4 @@ def countdown(n)
     puts "#{n} SECOND(S)!"
     countdown(n-1)
   end
-
-    end
-
-    end
-  puts "#{n} SECOND(S)!"
 end
